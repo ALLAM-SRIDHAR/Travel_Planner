@@ -36,3 +36,5 @@ Support for hotel recommendations.
 Integration with Google Maps for route visualization.
 Feel free to contribute or suggest improvements! 🚀
 
+### Here is streamlit code: you can try using it:
+https://travelplanner-allamsridhar.streamlit.app/
